@@ -1,0 +1,3 @@
+[submodule "am_mechanical"]
+	path = am_mechanical
+	url = git@github.com:AfkMan/am_mechanical.git
